@@ -53,6 +53,4 @@
 
 6. Check all other routes in the routes directory.
 
-<br> <p style="font-size: 40px">HAPPY CODING!!</p>
-
-:fire:
+<br> <p style="font-size: 100px">: 🚀:: 🚀:HAPPY CODING!!: 🚀:: 🚀:</p>
