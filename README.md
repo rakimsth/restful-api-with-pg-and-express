@@ -53,4 +53,4 @@
 
 6. Check all other routes in the routes directory.
 
-<br> <p style="font-size: 100px">: 🚀:: 🚀:HAPPY CODING!!: 🚀:: 🚀:</p>
+<br> <p style="font-size: 200px">🚀🚀 HAPPY CODING!!🚀🚀</p>
